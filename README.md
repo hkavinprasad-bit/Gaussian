@@ -54,6 +54,7 @@ for i in range(n):
 
 ## Output:
 ![gaussian elimination]()
+<img width="1919" height="975" alt="Screenshot 2026-03-25 144729" src="https://github.com/user-attachments/assets/85f1774e-3380-43d1-bd36-2364e566ce6a" />
 
 
 ## Result:
